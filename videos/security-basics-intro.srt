@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:10,320
+[David Wheeler]: This chapter provides a high level overview about security concepts, including definitions of security and privacy, requirements, and risk management.
+
+2
+00:00:10,320 --> 00:00:16,260
+We need to know the security basics so that we can understand how to develop software that supports these basics.
+
+3
+00:00:16,260 --> 00:00:25,620
+It's hard to implement security and privacy if we don't know what they are, and we must have a basic idea of what the software needs to do before we can implement it.
+
+4
+00:00:25,620 --> 00:00:32,643
+In addition, we should take reasonable steps to manage risks so that any risks taken are acceptable.
+

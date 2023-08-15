@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:04,440
+[David Wheeler]: Real world programs often call out to other programs.
+
+2
+00:00:04,440 --> 00:00:09,870
+On a server side application, these programs might include the operating system or a database.
+
+3
+00:00:09,870 --> 00:00:13,814
+On a client side application, this might include the supporting browser.
+
+4
+00:00:14,670 --> 00:00:19,320
+This chapter describes how to call other programs securely.
+
+5
+00:00:19,320 --> 00:00:26,097
+We'll discuss, in particular, on how to counter injection attacks, including SQL injection and OS command injection,
+
+6
+00:00:26,611 --> 00:00:30,033
+as well as how to properly handle file names and path names.
+

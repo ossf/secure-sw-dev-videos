@@ -1,0 +1,8 @@
+1
+00:00:00,150 --> 00:00:10,972
+[David Wheeler]: This chapter describes how to process data with security in mind, including treating untrusted data as dangerous, avoiding default and hard-coded credentials,
+
+2
+00:00:10,972 --> 00:00:17,103
+avoiding memory safety issues, such as buffer overflows, and avoiding undefined behavior.
+

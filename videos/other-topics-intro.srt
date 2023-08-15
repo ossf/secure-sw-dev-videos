@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:07,332
+[David Wheeler]: This chapter describes topics on the fundamentals of developing secure software that have not been covered elsewhere,
+
+2
+00:00:07,332 --> 00:00:16,563
+including handling vulnerability disclosures, assurance cases, the basics after development, formal methods, and top vulnerability lists.
+

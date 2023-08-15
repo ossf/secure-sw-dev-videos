@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:09,727
+[David Wheeler]: This chapter describes how to verify for security, including the limitations of tools, the meaning of static analysis and dynamic analysis,
+
+2
+00:00:09,727 --> 00:00:13,715
+and common types of tools that can help improve security.
+
+3
+00:00:14,284 --> 00:00:24,963
+These tool types include security code scanners, aka static application security testing, SAST tools, fuzzers, and web application scanners.
+

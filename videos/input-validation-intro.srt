@@ -1,0 +1,16 @@
+1
+00:00:00,180 --> 00:00:06,930
+[David Wheeler]: A key part of implementing secure software is to only accept input that should be accepted.
+
+2
+00:00:06,930 --> 00:00:15,438
+This chapter describes how to validate input, including how to validate numbers and text, the importance of minimizing attack surfaces,
+
+3
+00:00:15,438 --> 00:00:19,152
+and how to improve availability by considering the inputs.
+
+4
+00:00:19,827 --> 00:00:25,473
+Limiting input won't counter every attack, but it will tend to make the software harder to attack.
+

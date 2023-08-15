@@ -1,0 +1,8 @@
+1
+00:00:00,360 --> 00:00:04,530
+[David Wheeler]: This chapter describes how to send output securely.
+
+2
+00:00:04,530 --> 00:00:15,213
+This includes how to counter cross-site scripting, XSS attacks, how to use HTTP hardening headers, and how to securely use formatting systems.
+

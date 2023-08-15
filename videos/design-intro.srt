@@ -1,0 +1,12 @@
+1
+00:00:00,270 --> 00:00:11,010
+[David Wheeler]: Non-trivial software needs to be broken into smaller components that work together and that breakdown is often called design or architectural design.
+
+2
+00:00:11,010 --> 00:00:23,280
+This chapter describes how to design software to be secure, focusing on key secure design principles, such as least privilege, complete mediation and input validation.
+
+3
+00:00:23,280 --> 00:00:28,533
+These principles will help you avoid common problems and make your software harder to attack.
+

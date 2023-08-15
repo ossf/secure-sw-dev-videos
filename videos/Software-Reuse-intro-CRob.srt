@@ -1,0 +1,24 @@
+1
+00:00:01,140 --> 00:00:02,610
+[Christopher Robinson]: Hello, I'm CRob.
+
+2
+00:00:02,610 --> 00:00:11,253
+I'm the chairperson of the OpenSSF's Technical Advisory Council, and I also happen to be the liaison of the Developer Best Practices Working Group.
+
+3
+00:00:12,420 --> 00:00:19,950
+When developing software today, normally, we don't develop everything from scratch, we typically reuse a lot of software.
+
+4
+00:00:19,950 --> 00:00:24,900
+And in fact, on average, software products are mostly reused software.
+
+5
+00:00:24,900 --> 00:00:34,800
+In this chapter, we describe how to reuse software with security in mind, including selecting, downloading, installing, and updating such software.
+
+6
+00:00:34,800 --> 00:00:39,363
+Reusing more secure software generally produces more secure results.
+

@@ -1,0 +1,20 @@
+1
+00:00:00,150 --> 00:00:06,061
+[David Wheeler]: This chapter describes the basics of how to use cryptography to help develop secure software.
+
+2
+00:00:06,780 --> 00:00:15,720
+Developing secure software involves a lot more than cryptography, but many secure systems depend vitally on cryptography.
+
+3
+00:00:15,720 --> 00:00:22,203
+So to have secure systems, we often need to know how to correctly use cryptography.
+
+4
+00:00:23,250 --> 00:00:33,239
+We will cover the basics of symmetric or shared key encryption algorithms, cryptographic hashes, public key or asymmetric encryption,
+
+5
+00:00:33,239 --> 00:00:42,423
+how to securely store passwords, cryptographically secure pseudorandom number generators, CSPRNGs, and Transport Layer Security, TLS.
+

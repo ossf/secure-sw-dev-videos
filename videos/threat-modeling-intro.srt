@@ -1,0 +1,8 @@
+1
+00:00:00,180 --> 00:00:08,040
+[David Wheeler]: This chapter describes the basics of threat modeling, along with a specific threat modeling approach called stride.
+
+2
+00:00:08,040 --> 00:00:16,863
+The point of threat modeling is to try to think like an attacker when considering your software, including looking for threats and proactively countering them.
+
